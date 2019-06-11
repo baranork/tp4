@@ -82,7 +82,7 @@ void startTesting(int testGroup)
             utest_startTest(addNodeTestCase02,addNodeTestSetup,">Caso [Agregar un nuevo nodo a la lista]");
             utest_startTest(addNodeTestCase03,addNodeTestSetup,">Caso [Verificar el nodo agregado]");
             utest_startTest(addNodeTestCase04,addNodeTestSetup,">Caso [Intentar agregar nodos pasando una lista NULL]");
-            utest_startTest(addNodeTestCase05,addNodeTestSetup,">Caso [Intenta agregar un nodo el la posicion cero de una lista con elementos cargados]");
+          //  utest_startTest(addNodeTestCase05,addNodeTestSetup,">Caso [Intenta agregar un nodo en la posicion cero de una lista con elementos cargados]");
             utest_printStatistics("ll_addNode()");
             break;
 

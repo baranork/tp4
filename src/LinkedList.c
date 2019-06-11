@@ -60,23 +60,24 @@ static Node* getNode(LinkedList* this, int nodeIndex)
     int i;
     int s;
 
-    if(this != NULL){
-       pNode = this->pFirstNode;
-       s = this->size;
+    if(this != NULL)
+    {
+
+
+            if(!(nodeIndex < 0 || nodeIndex >= s))
+            {
+                pNode = this->pFirstNode;
+                s = this->size;
+                for(i=0; i<nodeIndex; i++)
+                {
+                    pNode = pNode->pNextNode;
+                }
+
+            }
+
     }
 
 
-
-           if(pNode != NULL){
-        for(i=0; i<nodeIndex; i++){
-            pNode = pNode->pNextNode;
-        }
-
-    }
-
-    if(nodeIndex < 0 || nodeIndex >= s){
-        pNode = NULL;
-    }
 
 
     return pNode;
@@ -99,7 +100,7 @@ Node* test_getNode(LinkedList* this, int nodeIndex)
 /** \brief Agrega y enlaza un nuevo nodo a la lista
  *
  * \param this LinkedList* Puntero a la lista
- * \param nodeIndex int Ubicacion donde se agregara el nuevo nodo
+ * \param nodeIndex int Ubicacion donde se agregara el nuevo nodo.
  * \param pElement void* Puntero al elemento a ser contenido por el nuevo nodo
  * \return int Retorna  (-1) Error: si el puntero a la lista es NULL o (si el indice es menor a 0 o mayor al len de la lista)
                         ( 0) Si funciono correctamente
@@ -108,6 +109,26 @@ Node* test_getNode(LinkedList* this, int nodeIndex)
 static int addNode(LinkedList* this, int nodeIndex,void* pElement)
 {
     int returnAux = -1;
+    Node* elNodo;
+
+
+    if(this != NULL || pElement != NULL)
+    {
+
+        Node* nuevoNodo = (Node*)malloc(sizeof(Node));
+        Node* elNodo = (Node*)malloc(sizeof(Node));
+        elNodo = getNode(this, nodeIndex);
+        if(elNodo != NULL)
+        {
+            nuevoNodo->pNextNode = elNodo->pNextNode;
+
+            elNodo->pNextNode = nuevoNodo;
+        }
+
+        nuevoNodo->pElement = pElement;
+        this->size++;
+        returnAux = 0;
+    }
 
 
 
