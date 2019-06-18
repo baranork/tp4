@@ -4608,3 +4608,249 @@
 	<string.h>
 	"../inc/LinkedList.h"
 
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\addnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\utest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\inc\linkedlist.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\employee.h
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\addtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\cleartest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\clonetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\containsalltest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\containstest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\deletelinkedlisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\getnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\gettest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\indexoftest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\isemptytest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\lentest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560863553 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\main_test.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	"../inc/newTest.h"
+	"../inc/addTest.h"
+	"../inc/getNodeTest.h"
+	"../inc/addNodeTest.h"
+	"../inc/deleteLinkedListTest.h"
+	"../inc/lenTest.h"
+	"../inc/getTest.h"
+	"../inc/containsTest.h"
+	"../inc/setTest.h"
+	"../inc/removeTest.h"
+	"../inc/clearTest.h"
+	"../inc/cloneTest.h"
+	"../inc/pushTest.h"
+	"../inc/indexOfTest.h"
+	"../inc/isEmptyTest.h"
+	"../inc/popTest.h"
+	"../inc/subListTest.h"
+	"../inc/containsAllTest.h"
+	"../inc/sortTest.h"
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\newtest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\addtest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\getnodetest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\addnodetest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\deletelinkedlisttest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\lentest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\gettest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\containstest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\settest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\removetest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\cleartest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\clonetest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\pushtest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\indexoftest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\isemptytest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\poptest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\sublisttest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\containsalltest.h
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\sorttest.h
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\newtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\poptest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\pushtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\removetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\settest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\sorttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\src\sublisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560265287 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1560863553 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/LinkedList.h"
+
+1560265287 c:\users\alumno\downloads\tp4-master (1)\tp4-master\testing\inc\main_test.h
+
+1560863504 source:c:\users\alumno\downloads\tp4-master (1)\tp4-master\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+

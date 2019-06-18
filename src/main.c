@@ -28,8 +28,8 @@ int main(void)
 {
     //  startTesting(1);  // ll_newLinkedList (Listo)
    //   startTesting(2);  // ll_len (Listo)
-      startTesting(3);  // getNode - test_getNode (Listo)
-    //  startTesting(4);  // addNode - test_addNode (Sin empezar)
+     // startTesting(3);  // getNode - test_getNode (Listo)
+      startTesting(4);  // addNode - test_addNode (Sin empezar)
 
 
       /*     startTesting(5);  // ll_add

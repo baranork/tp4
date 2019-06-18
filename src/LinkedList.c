@@ -63,11 +63,11 @@ static Node* getNode(LinkedList* this, int nodeIndex)
     if(this != NULL)
     {
 
-
+        s = this->size;
             if(!(nodeIndex < 0 || nodeIndex >= s))
             {
                 pNode = this->pFirstNode;
-                s = this->size;
+
                 for(i=0; i<nodeIndex; i++)
                 {
                     pNode = pNode->pNextNode;
@@ -123,14 +123,14 @@ static int addNode(LinkedList* this, int nodeIndex,void* pElement)
             nuevoNodo->pNextNode = elNodo->pNextNode;
 
             elNodo->pNextNode = nuevoNodo;
+
         }
 
-        nuevoNodo->pElement = pElement;
-        this->size++;
-        returnAux = 0;
+            nuevoNodo->pElement = pElement;
+            this->size++;
+            returnAux = 0;
+
     }
-
-
 
 
     return returnAux;
@@ -165,6 +165,7 @@ int ll_add(LinkedList* this, void* pElement)
     /*Linked list null?
     Agarro el primero, y luego los recorro ((
     */
+    //El Add llama al add node (Que hace toda la logica) para agregar un nodo
 
     return returnAux;
 }
